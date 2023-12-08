@@ -23,7 +23,7 @@ email:
   - adyan@wpi.edu
   - jamoy@wpi.edu
   - mpsin@wpi.edu
-description: This is a poetry recommendation tool!
+description: A poetry recommendation tool!
 permalink: /:title/
 baseurl: "/poetry_pal/" # the subpath of your site, e.g. /blog
 url: "https://megansin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
