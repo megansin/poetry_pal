@@ -26,7 +26,7 @@ email:
 description: A poetry recommendation tool!
 permalink: /:title/
 baseurl: "/poetry_pal/" # the subpath of your site, e.g. /blog
-url: "https://megansin.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://megansin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: megansin
 
 # Build settings
