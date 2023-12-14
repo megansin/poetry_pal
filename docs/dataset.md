@@ -25,4 +25,4 @@ Number of books: 36,514
 
 mean rating: 4.06
 
-![alt text](graphs/rating.png "Title")
+![alt text](graphs/poetry_rating_distribution.jpeg "Poetry Rating Distribution")
