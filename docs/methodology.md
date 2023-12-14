@@ -4,6 +4,13 @@ title: Methodology
 ---
 # Methodology
 
+## Tools:
+- Git
+- Jupyter Notebooks
+- TensorFlow
+- Numpy
+- scikit-learn
+
 ## Item-Item Collaborative Filtering
 Initially, our approach centered on implementing an item-item Collaborative Filtering (CF) model utilizing the Pearson correlation coefficient. This involved looking at similarities between items based on user interactions, where the Pearson coefficient measured the linear correlation between item ratings by different users. We calculated the similarity matrix for items, leveraging the Pearson coefficient to recommend poems similar to those previously liked by a user. However, we encountered challenges in handling sparsity within the dataset and the inability of the Pearson coefficient to capture complex nonlinear relationships between poems. This method struggled with scalability and failed to offer personalized recommendations that accounted for stuble user preferences beyond direct item associations. Additionally, using this strategy, we could only utilize some of the dataset as we ran out of memory and could only do subsets of the dataset.
 
