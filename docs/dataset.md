@@ -8,7 +8,7 @@ title: Dataset
 
 The datasets on this website were collected in late 2017 from goodreads.com, where we only scraped users' public shelves.
 
-Poetry Pal used data from the Poetry genre, with 36,514 books, 2,734,350 interactions, and 154,555 detailed reviews.
+Poetry Pal used data from the Poetry genre, with 2,734,350 interactions and 154,555 detailed reviews.
 
 ### Links to download Poetry data
 - [goodreads_books_poetry.json.gz](https://datarepo.eng.ucsd.edu/mcauley_group/gdrive/goodreads/byGenre/goodreads_books_poetry.json.gz)
@@ -25,4 +25,5 @@ Number of books: 36,514
 
 mean rating: 4.06
 
+Poetry Rating Distribution
 ![Poetry Rating Distribution](https://raw.githubusercontent.com/megansin/poetry_pal/gh-pages/docs/poetry_rating_distribution.jpeg "Poetry Rating Distribution")
